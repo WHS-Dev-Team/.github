@@ -1,11 +1,9 @@
-## Hi there 👋
+<p align="center"> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+We+Are+the+WHS+Computer+Science+Club."/> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Come+to+Room+LC1+after+school+on+Monday+and+Wednesday." />
+</p>
 
 **Here are some ideas to get you started:**
-
-**🙋‍♀️ Who Are We:**
-- We are the Wheeling High School Computer Science Developer Club.
-- Come to Room **LC1** after school on **Monday** and **Wednesday**.
-
 **🚀 What We Do:**
 
 - Dive deep into coding languages like Java, Python, and more.
