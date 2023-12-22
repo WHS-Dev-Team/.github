@@ -24,8 +24,9 @@
 
 - Follow us on the Announcement for updates, project showcases, and more!
 - Questions? Email us at:
-  - [Bryan Hein Chen](mailto:hthu4374@stu.d214.org)
   - [Maximillian Szatko](mailto:mszatko5291@stu.d214.org)
+  - [Bryan Hein Chen](mailto:hthu4374@stu.d214.org)
   - [Timothy Kabakov](mailto:tkabakov5490@stu.d214.org)
+  - [Gabriel Latoga](mailto:elatoga5428@stu.d214.org)
 
 Join us for a fun, learning-packed session this Monday! See you there! 🎈
