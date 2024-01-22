@@ -29,4 +29,4 @@
   - [Timothy Kabakov](mailto:tkabakov5490@stu.d214.org)
   - [Gabriel Latoga](mailto:elatoga5428@stu.d214.org)
 
-Join us for a fun, learning-packed session this Monday! See you there! 🎈
+Join us for a fun, learning-packed session every Thursday! See you there! 🎈
