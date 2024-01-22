@@ -1,6 +1,6 @@
 <p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi%2C+We+Are+the+WHS+Programming+Club."/> <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Come+to+Room+LC1+after+school+on+Monday+and+Wednesday." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Come+to+Room+LC1+every+Monday." />
 </p>
 
 **Here are some ideas to get you started:**
